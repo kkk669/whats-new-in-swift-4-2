@@ -8,4 +8,4 @@ The playground requires Swift 4.2, which is part of Xcode 10.
 
 See also: my [What’s new in Swift 4.0 playground](https://github.com/ole/whats-new-in-swift-4) from 2017.
 
-![Screenshot of the playground](playground-screenshot.png)
+![Screenshot of the playground](playground-screenshot-ios.png)
